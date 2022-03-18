@@ -1,5 +1,5 @@
 # Rolling Web
-Python project for automotive curcling table web interface
+Python + HTML project for automotive curcling table web interface
 ## Features
 - Encoder status
 - UDP status 
